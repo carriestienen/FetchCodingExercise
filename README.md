@@ -54,4 +54,6 @@ For developer mode
 python3.8 ./server.py
 ```
 
+## Jupyter Notebook
 
+This repository also contains a jupyter notebook explaining the text similarity calculation and what metrics were considered and used.
